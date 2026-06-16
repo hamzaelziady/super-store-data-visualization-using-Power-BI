@@ -82,7 +82,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 🎥 Dashboard Demo
 
-Watch a walkthrough of the interactive dashboard here in the folder called video
+Watch a walkthrough of the interactive dashboard here in the folder called Videos and Screenshots
 
 ---
 
@@ -109,7 +109,12 @@ Superstore-Sales-Analysis/
 ├── Dashboard/
 │   └── Superstore Dashboard.pbix
 │
-├── README.md
+├── Videos and Screenshots/
+│   ├── home.png
+│   ├── region.png
+│   └── Superstore Data Visualization Video.mp4
+│
+└── README.md
 ```
 
 ---
